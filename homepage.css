@@ -1,0 +1,74 @@
+* { 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+
+}
+
+h1{ 
+   font-family: 'Clash Display', sans-serif;
+                                                
+
+}
+
+.box {
+background-image: url("./img/main.jpeg") no-repeat ;    
+background-size:cover;
+display:flex;
+
+
+}
+.white-square {
+background-color: white;
+height: 27.75rem;
+width: 39.375rem;
+left: 730px;
+top: 130px;
+border-radius: 0px;
+
+  
+}
+
+
+
+.living-room {
+height: 900px;
+width: 100vw;
+left: 0px;
+top: 132px;
+border-radius: 0px;
+ 
+}
+
+
+
+h2 {
+    font-family: 'Clash Display', sans-serif;
+
+
+}
+p {
+    font-family: 'Satoshi', sans-serif;
+}
+
+article {
+
+}
+
+span{
+    font-family: 'Satoshi', sans-serif;
+}
+
+h4 {
+    font-family: 'Clash Display', sans-serif 
+
+}
+
+h3 {
+    font-family: 'Clash Display', sans-serif; 
+
+
+}
